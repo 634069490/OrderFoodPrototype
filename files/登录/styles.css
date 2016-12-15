@@ -1,0 +1,160 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:537px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:357px;
+  height:51px;
+}
+#u0 {
+  position:absolute;
+  left:181px;
+  top:60px;
+  width:356px;
+  height:50px;
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:18px;
+  color:#FFFFFF;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:16px;
+  width:352px;
+  word-wrap:break-word;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:357px;
+  height:488px;
+}
+#u2 {
+  position:absolute;
+  left:181px;
+  top:60px;
+  width:356px;
+  height:487px;
+}
+#u3 {
+  position:absolute;
+  left:2px;
+  top:236px;
+  width:352px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:277px;
+  height:41px;
+}
+#u4 {
+  position:absolute;
+  left:228px;
+  top:443px;
+  width:276px;
+  height:40px;
+  font-size:16px;
+}
+#u4_img.mouseDown {
+}
+#u4.mouseDown {
+}
+#u5 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:272px;
+  word-wrap:break-word;
+}
+#u6_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:277px;
+  height:41px;
+}
+#u6 {
+  position:absolute;
+  left:228px;
+  top:362px;
+  width:276px;
+  height:40px;
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+  text-align:left;
+}
+#u7 {
+  position:absolute;
+  left:10px;
+  top:12px;
+  width:264px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u8_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:111px;
+}
+#u8 {
+  position:absolute;
+  left:253px;
+  top:153px;
+  width:200px;
+  height:111px;
+}
+#u9 {
+  position:absolute;
+  left:2px;
+  top:48px;
+  width:196px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u10 {
+  position:absolute;
+  left:237px;
+  top:370px;
+  width:256px;
+  height:25px;
+}
+#u10_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:256px;
+  height:25px;
+  background-color:transparent;
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#333333;
+  text-align:left;
+  border-color:transparent;
+  outline-style:none;
+}
